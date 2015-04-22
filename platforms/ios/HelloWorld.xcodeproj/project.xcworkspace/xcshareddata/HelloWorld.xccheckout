@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AEECC1AA-3473-4286-B246-7FE3631E6A38</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>30E2A4BC-DA5D-46C5-BE7F-66F447D2004D</key>
+		<string>http://172.25.69.100/HydRepo/Projects/Liberty_Mutual/Source_Code/Client/iOS/iPad/branches/LM_iPad_Sprint2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PhoneGapSetup/hello/platforms/ios/HelloWorld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>30E2A4BC-DA5D-46C5-BE7F-66F447D2004D</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>30E2A4BC-DA5D-46C5-BE7F-66F447D2004D</key>
+		<string>http://172.25.69.100/HydRepo</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://172.25.69.100/HydRepo/Projects/Liberty_Mutual/Source_Code/Client/iOS/iPad/branches/LM_iPad_Sprint2/PhoneGapSetup/hello/platforms/ios/HelloWorld.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>30E2A4BC-DA5D-46C5-BE7F-66F447D2004D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>30E2A4BC-DA5D-46C5-BE7F-66F447D2004D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Sreevenkatesh</string>
+		</dict>
+	</array>
+</dict>
+</plist>
